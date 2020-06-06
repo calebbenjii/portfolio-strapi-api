@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "calebbenjin",
+    "api_key": "688737111446569",
+    "api_secret": "xqGwnvPp3LL4ojxWwb1J44E0wMg"
+  }
+}
